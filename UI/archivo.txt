@@ -1,0 +1,36 @@
+Persona: Luis Sandoval
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: NonePersona: Luis Sandoval
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: NonePersona: Maria Caice
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: NonePersona: Maria Caice
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: NonePersona: Maria Caice
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None

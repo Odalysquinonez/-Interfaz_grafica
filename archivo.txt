@@ -1,0 +1,80 @@
+Persona: caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Caroline Mero
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Sergio Lara
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: josem m
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Luis Lara
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Mara S
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: Sergio Quiñonez
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
+Persona: juan jose
+Cédula: None
+Email: None
+Teléfono: None
+Dirección: None
+Número de libros: None
+Activo: None
+Carrera: None
